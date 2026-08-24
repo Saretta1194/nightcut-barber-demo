@@ -3,6 +3,7 @@
 NightCut Barber is a responsive demo website created for a modern barber shop.
 
 The project was built as a reusable example website that can be shown to potential clients looking for a simple, modern and professional online presence.
+[Live Demo](https://saretta1194.github.io/nightcut-barber-demo/)
 
 ## Live Features
 
